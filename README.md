@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0d1117"/>
  
-[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/xxx/FIREWALL-Network-Manager-Project)
+[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/TunarKhankishiyev/FIREWALL-Network-Manager-Project)
 </p>
  
 </td>
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/SDR%2FRF-purple?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Hardware-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=0d1117"/>
  
-[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/xxx/Jammer-Wireless-Security-Research-Devicesss)
+[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/TunarKhankishiyev/Jammer-Wireless-Security-Research-Devicesss)
 </p>
  
 </td>
