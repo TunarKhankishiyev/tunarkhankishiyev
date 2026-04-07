@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&color=00FF41&center=true&vCenter=true&width=600&lines=Tunar+Xankisiyev" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=%5B+Initializing+secure+connection...+%5D;%5B+Access+granted.+Welcome.+%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&color=00FF41&center=true&vCenter=true&width=600&height=30&repeat=false&pause=1000&lines=Tunar+Xankisiyev" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=15&lines=%5B+Initializing+secure+connection...+%5D;Cybersecurity+Enthusiast;Network+%26+Wireless+Security;BTJA+%7C+ASOIU" alt="Typing SVG" />
 
 <br/>
 
