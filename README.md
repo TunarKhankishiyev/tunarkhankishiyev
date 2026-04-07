@@ -41,7 +41,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1&pause=999999&color=00FF41&width=435&lines=%24+nmap+--skills+tunar.local" />
 
-<p align="center">
+<>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
