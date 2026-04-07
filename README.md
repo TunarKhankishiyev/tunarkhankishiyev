@@ -1,12 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tunar Khankishiyev</h1>
-<h3 align="center">Cybersecurity Specialist Enthusiast | BTJA | Information Technologies student at ASOIU</h3>
-
-- 🔭 I’m currently working on [Firewall Management System (hybrid desktop + web firewall control panel)]([firewall_management](https://github.com/TunarKhankishiyev/FIREWALL-Network-Manager-Project))
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tunar-xankisiyev-154a74328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunar-xankisiyev-154a74328" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=Tunar%20Xankisiyev&fontSize=36&fontColor=000000&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20|%20ASOIU&descAlignY=65&descSize=14&fontStyle=bold" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/xxx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:xxx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=xxx&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+```bash
+┌──(tunar㉿kali)-[~]
+└─$ whoami
+
+  🎯 Cybersecurity Specialist Enthusiast | BTJA
+  🎓 Information Technologies @ ASOIU
+  🔍 Focused on: Network Security · RF Research · Firewall Systems
+  ⚡ Motto: "Hack to learn. Learn to protect."
+```
+
+---
+
+### 🛠️ Tools & Tech
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+### 🔐 Projects
+
+| Project | Description |
+|--------|-------------|
+| [🔥 FIREWALL Network Manager](https://github.com/xxx/FIREWALL-Network-Manager-Project) | Hybrid firewall with synced desktop + web control panel |
+| [📡 Wireless Jammer Research Device](https://github.com/xxx/Jammer-Wireless-Security-Research-Devicesss) | RF interference research & wireless protocol hardening |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxx&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer"/>
+</p>
