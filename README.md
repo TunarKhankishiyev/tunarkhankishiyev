@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TunarKhankishiyev)
 [![Email](https://img.shields.io/badge/-%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tunarxankisiyev@gmail.com)
 </div>
-
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1&pause=999999&color=00FF41&width=435&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+tunar" />
@@ -31,8 +30,49 @@
 <br/>
 
 <div >
-### `[ 01 ]` — FIREWALL Network Manager
-### `[ 02 ]` — Wireless Jammer Research Device
+```
+┌──(tunar㉿sec-lab)-[~/projects/firewall]
+└─$ cat project.info
+ 
+  Name    →  FIREWALL Network Manager
+  Type    →  Desktop App + Web Panel
+  Domain  →  Network Security
+  Stack   →  Python · Bash · Linux
+  Status  →  [ PUBLIC ]
+ 
+  Desc    →  Hybrid firewall management,
+             desktop & web panel synced.
+             Rules · Logs · Permissions
+             all in real time.
+```
+ 
+<p align="center">
+<img src="https://img.shields.io/badge/Network_Security-red?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0d1117"/>
+ 
+[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/xxx/FIREWALL-Network-Manager-Project)
+</p>
+ 
+</td>
+<td width="50%" valign="top">
+ 
+```
+┌──(tunar㉿sec-lab)-[~/projects/rf-jam]
+└─$ cat project.info
+ 
+  Name    →  Wireless Jammer Research
+  Type    →  Hardware + RF Device
+  Domain  →  Wireless Security
+  Stack   →  C++ · SDR · RF Protocols
+  Status  →  [ PUBLIC ]
+ 
+  Desc    →  Hardware research into RF
+             interference & wireless
+             attack surfaces. Built to
+             understand & harden protos.
+```
 </div>
 
 ---
