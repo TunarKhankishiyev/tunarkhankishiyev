@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tunar Khankishiyev</h1>
 <h3 align="center">Cybersecurity Specialist Enthusiast | BTJA | Information Technologies student at ASOIU</h3>
 
-- 🔭 I’m currently working on [Firewall Management System (hybrid desktop + web firewall control panel)](firewall_management)
+- 🔭 I’m currently working on [Firewall Management System (hybrid desktop + web firewall control panel)]([firewall_management](https://github.com/TunarKhankishiyev/FIREWALL-Network-Manager-Project))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
