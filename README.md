@@ -5,9 +5,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xxx)
-[![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xxx)
-[![Email](https://img.shields.io/badge/-%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xxx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunar-xankisiyev-154a74328/)
+[![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/xxx](https://github.com/TunarKhankishiyev))
+[![Email](https://img.shields.io/badge/-%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tunarxankisiyev@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=xxx&style=flat-square&color=00FF41&label=VISITORS)
 
 </div>
