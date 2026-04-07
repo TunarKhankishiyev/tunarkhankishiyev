@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TunarKhankishiyev)
 [![Email](https://img.shields.io/badge/-%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tunarxankisiyev@gmail.com)
 </div>
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1&pause=999999&color=00FF41&width=435&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+tunar" />
 
@@ -29,8 +29,12 @@
 
 <br/>
 
-<div >
-```
+<!-- <div> -->
+<table border="0" width="100%" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" valign="top">
+ 
+<pre>
 ┌──(tunar㉿sec-lab)-[~/projects/firewall]
 └─$ cat project.info
  
@@ -44,7 +48,7 @@
              desktop & web panel synced.
              Rules · Logs · Permissions
              all in real time.
-```
+</pre>
  
 <p align="center">
 <img src="https://img.shields.io/badge/Network_Security-red?style=flat-square&labelColor=0d1117"/>
@@ -58,7 +62,7 @@
 </td>
 <td width="50%" valign="top">
  
-```
+<pre>
 ┌──(tunar㉿sec-lab)-[~/projects/rf-jam]
 └─$ cat project.info
  
@@ -72,16 +76,31 @@
              interference & wireless
              attack surfaces. Built to
              understand & harden protos.
-```
-</div>
+</pre>
+ 
+<p align="center">
+<img src="https://img.shields.io/badge/Wireless_Security-orange?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SDR%2FRF-purple?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hardware-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=0d1117"/>
+ 
+[![View Project](https://img.shields.io/badge/⇒_VIEW_REPO-0d1117?style=for-the-badge&logo=github)](https://github.com/xxx/Jammer-Wireless-Security-Research-Devicesss)
+</p>
+ 
+</td>
+</tr>
+</table>
+
+<!-- </div> -->
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1&pause=999999&color=00FF41&width=435&lines=%24+nmap+--skills+tunar.local" />
 
-<>
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
